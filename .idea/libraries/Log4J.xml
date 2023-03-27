@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Log4J" type="repository">
+    <properties include-transitive-deps="false" maven-id="org.slf4j:log4j-over-slf4j:1.7.36" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/log4j-over-slf4j/1.7.36/log4j-over-slf4j-1.7.36.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
